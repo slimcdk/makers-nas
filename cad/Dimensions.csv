@@ -1,0 +1,26 @@
+3D Print Parameters	in mm
+Max Print Width	210
+Max Print Depth	250
+Max Print Height	210
+
+Tight Print Tolerance	0.1
+Regular Print Tolerance	0.2
+Loose Print Tolerance	0.4
+
+
+
+
+
+Parts Parameters
+Extrusion Side Length	20
+Extrusion Slot Width	6
+Extrusion Nut Screw Diameter	3
+Extrusion Nut Screw Head Diameter	7
+
+
+
+
+
+Build Parameters
+Width Extrusion Outside To Outside	250
+Height Extrusion Outside To Outside	210
